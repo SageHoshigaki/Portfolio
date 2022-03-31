@@ -2,7 +2,7 @@ import React from "react";
 
 function Footer() {
   return (
-    <footer className="section">
+    <footer id="current-about" className="section">
       <div class="f-head has-text-centered">
         <h1>Reach Out.</h1>
         <div class="columns is-centered wooski is-flex flex-direction-row links">

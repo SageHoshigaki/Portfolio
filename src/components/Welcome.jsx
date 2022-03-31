@@ -2,7 +2,7 @@ import React from "react";
 
 function Welcome() {
   return (
-    <section className="section wel">
+    <section id="begin" className="section wel ">
       <div className="has-text-centered has-text-white ">
         <div>
           <h6 className="wel-name">Hello, i'm Sage</h6>

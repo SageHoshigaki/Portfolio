@@ -7,14 +7,18 @@ function Nav() {
         <div class="container">
           <div id="navMenu" class="navbar-menu">
             <div class="navbar-start">
-              <a class="navbar-item my-name">
+              <a href="#begin" class="navbar-item my-name">
                 Sa<br></br>White
               </a>
             </div>
 
             <div class="navbar-end">
-              <a class="navbar-item">About</a>
-              <a class="navbar-item">Work</a>
+              <a href="#current-about" class="navbar-item">
+                About
+              </a>
+              <a href="#first-project" class="navbar-item">
+                Work
+              </a>
             </div>
           </div>
         </div>

@@ -3,7 +3,7 @@ import "../projects";
 
 function Projectentry(props) {
   return (
-    <div class="section has-text-centered">
+    <div id="first-project" class="section has-text-centered">
       <div>
         <img src={props.img} alt="" />
       </div>
