@@ -10,7 +10,9 @@ footer {
   background-color: black;
   color: white;
 }
-
+img {
+  width: 90%;
+}
 a,
 a:hover,
 a:focus,
@@ -29,6 +31,7 @@ a:active {
 
 .my-name {
   font-family: "Dela Gothic One", cursive;
+  margin-right: 40%;
 }
 
 .my-name:hover {

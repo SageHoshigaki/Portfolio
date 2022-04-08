@@ -8,7 +8,7 @@ function Nav() {
           <div id="navMenu" class="navbar-menu">
             <div class="navbar-start">
               <a href="#begin" class="navbar-item my-name">
-                Sa<br></br>White
+                Sage<br></br>White
               </a>
             </div>
 

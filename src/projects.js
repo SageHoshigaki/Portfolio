@@ -17,6 +17,15 @@ const projects = [
     name: "",
     description: "",
   },
+  {
+    project: 3,
+    img: "../img/amyrose.png",
+    type: "",
+    github: "https://github.com/SageHoshigaki/AmyRose",
+    url: "https://benevolent-lebkuchen-8ebca1.netlify.app/",
+    name: "",
+    description: "",
+  },
 ];
 
 export default projects;
