@@ -12,8 +12,9 @@ const projects = [
     project: 2,
     img: "../img/gomaux-ui.png",
     type: "",
-    github: "",
-    url: "",
+    github:
+      "https://github.com/Gomagithub/FoodTiger-admin-backend/tree/develop",
+    url: "N/A",
     name: "",
     description: "",
   },
