@@ -27,6 +27,14 @@ const projects = [
     name: "",
     description: "",
   },
+  {
+    project: 4,
+    img: "../img/templanding.png",
+    type: "",
+    url: "https://silver-surfercomm.herokuapp.com/",
+    name: "",
+    description: "",
+  },
 ];
 
 export default projects;
