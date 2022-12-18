@@ -31,7 +31,7 @@ const projects = [
     project: 4,
     img: "../img/templanding.png",
     type: "",
-    url: "https://silver-surfercomm.herokuapp.com/",
+    url: "https://fashion-ecomm.onrender.com/",
     name: "",
     description: "",
   },
